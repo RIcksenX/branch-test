@@ -1,3 +1,7 @@
 branchA
 im the different
+<<<<<<< HEAD
+this is master different
+=======
 this is the branchA modify
+>>>>>>> branchA
